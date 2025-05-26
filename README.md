@@ -73,7 +73,7 @@ Such a model is beneficial in automating the detection of fruit degradation, whi
 
 ## 📈 Results
 
-- **Accuracy Achieved:** ~85–90% on validation data  
+- Accuracy Achieved:** ~85–90% on validation data  
 - Clear visualization of model predictions  
 - Effective train/test split to enhance generalization  
 - Model predicts rot percentage reliably on unseen images  
